@@ -13,6 +13,7 @@ import whois
 from urllib.parse import urlparse
 from googlesearch import search
 import joblib
+pip install --upgrade pip
 
 
 class FeatureExtraction:
